@@ -1,8 +1,3 @@
-/**
- * This class represents a sudoku grid. Each sudoku grid has a size n and
- * digits in each column and row between 1 and n.
- * @author William Vo
- */
 public class Sudoku {
 
     /**
